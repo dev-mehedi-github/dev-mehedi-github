@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at **Ame
 ---
 
 Academic Profile
-- **Institution:** American International University-Bangladesh (AIUB)[cite: 1]
-- **Degree:** B.Sc. in Computer Science & Engineering [cite: 1]
-- **Student ID:** 22-48502-3[cite: 1]
-- **Status:** 8th Semester (Final Year)
-- **Location:** Dhaka, Bangladesh[cite: 1]
+- **Institution:** American International University-Bangladesh (AIUB)
+- **Degree:** B.Sc. in Computer Science & Engineering 
+- **Student ID:** 22-48502-3
+- **Location:** Dhaka, Bangladesh
 
 ---
 
@@ -24,18 +23,10 @@ Academic Profile
 - **Data Structures & Algorithms** (C++)
 - **Desktop Applications** — C# .NET Framework
 - **Graphics Programming** — OpenGL, GLUT (Computer Graphics)
-- **Database Management** — SQL, Oracle 10G
+- **Database Management** — SQL, Oracle 10G, MS SQL
 - **Artificial Intelligence & ML** — Python, Jupyter Notebook
 - **Software Engineering** — Design Principles, Development Methodologies, Requirements Engineering
 - **Compiler Design** — All six compiler phases, grammar derivations, parse trees, SDT schemes, postfix conversion
-
-### Technologies & Tools
-- Visual Studio, Visual Studio Code
-- Git & GitHub
-- Oracle Database
-- Jupyter Notebook
-- OpenGL & GLUT
-
 ---
 
 ## 📚 Completed Coursework & Projects
@@ -58,19 +49,10 @@ Academic Profile
 | Project | Stack | Description |
 |---|---|---|
 | Hospital Management System | C# / .NET | Full-featured desktop application |
-| Hotel Management System | Java | OOP-based desktop system |
-| Crypto Management System | Java | Desktop-based crypto portfolio tracker |
-| AIUB Logo (OpenGL) | C++ / GLUT | Graphics rendering project |
-| Medi-Assist (WIP) | Web / AI | AI-powered online pharmacy system report |
-
----
-
-## 🧩 Competitive Programming
-
-- **Beginner** level, actively building problem-solving skills
-- Primary language: **C++**
-- Platforms: Codeforces, CSES, LeetCode, HackerRank, AtCoder
-- Focus: Data Structures, Algorithms, and problem patterns
+| Hotel Management System | Java | OOP-based desktop system with Oracle sql |
+| Crypto Management System | Java | Desktop-based crypto portfolio tracker without sql |
+| Tea Garden (OpenGL) | C++ / GLUT | Graphics rendering project |
+| Medi-Assist (UI) | Figma | AI-powered online pharmacy system documentation report |
 
 ---
 
