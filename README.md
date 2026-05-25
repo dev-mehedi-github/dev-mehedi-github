@@ -1,66 +1,15 @@
-# Hello, I'm Mehedi 👋
-Welcome to my GitHub profile! I'm a passionate Computer Science student at **American International University-Bangladesh (AIUB)**, dedicated to learning and mastering programming across multiple domains.
+<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h3 align="center">I'm a passionate Computer Science student at American International University-Bangladesh (AIUB),Bangladesh</h3>
 
----
+- 📫 How to reach me **aiubmehedi20@gmail.com**
 
-Academic Profile
-- **Institution:** American International University-Bangladesh (AIUB)
-- **Degree:** B.Sc. in Computer Science & Engineering 
-- **Student ID:** 22-48502-3
-- **Location:** Dhaka, Bangladesh
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🛠️ Technical Skills
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-mehedi-github&show_icons=true&locale=en" alt="dev-mehedi-github" /></p>
 
-### Core Programming Languages
-- **C++** — Data Structures, Algorithms, Competitive Programming
-- **Java** — Object-Oriented Programming, Project Development
-- **C#** — Desktop Applications (.NET Framework)
-- **Python** — Artificial Intelligence, Machine Learning, Data Analysis
-
-### Specialized Areas
-- **Data Structures & Algorithms** (C++)
-- **Desktop Applications** — C# .NET Framework
-- **Graphics Programming** — OpenGL, GLUT (Computer Graphics)
-- **Database Management** — SQL, Oracle 10G, MS SQL
-- **Artificial Intelligence & ML** — Python, Jupyter Notebook
-- **Software Engineering** — Design Principles, Development Methodologies, Requirements Engineering
-- **Compiler Design** — All six compiler phases, grammar derivations, parse trees, SDT schemes, postfix conversion
----
-
-## 📚 Completed Coursework & Projects
-
-✅ **C++ Fundamentals** — Core concepts and best practices  
-✅ **Java** — OOP principles and application development  
-✅ **Data Structures & Algorithms** — Advanced problem solving with C++  
-✅ **C# .NET Desktop Applications** — Full-featured desktop software projects  
-✅ **Computer Graphics** — OpenGL & GLUT implementations (including AIUB logo rendering)  
-✅ **Software Engineering** — System design, development lifecycle, Requirements Engineering  
-✅ **Database Management** — SQL with Oracle 10G  
-✅ **Artificial Intelligence** — Python, Jupyter Notebook, Projects & implementations  
-✅ **Compiler Design** — Phases, grammar, parse trees, SDT, postfix conversion  
-
----
-
-
-## 🏗️ Previous Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| Hospital Management System | C# / .NET | Full-featured desktop application |
-| Hotel Management System | Java | OOP-based desktop system with Oracle sql |
-| Crypto Management System | Java | Desktop-based crypto portfolio tracker without sql |
-| Tea Garden (OpenGL) | C++ / GLUT | Graphics rendering project |
-| Medi-Assist (UI) | Figma | AI-powered online pharmacy system documentation report |
-
----
-
-## 💡 What I'm Looking For
-
-- 🔗 Collaboration on open-source projects
-- 📖 Learning opportunities in Web Development, ML, and Data Science
-- 🤝 Networking with developers and tech enthusiasts
-- 💼 Internship and professional development opportunities
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-mehedi-github&" alt="dev-mehedi-github" /></p>
