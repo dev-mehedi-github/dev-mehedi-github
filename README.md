@@ -6,15 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=dev-mehedi-github&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-### 🚀 Featured Project — Medi-Assist
-
-An AI-powered online pharmacy system built for my Software Engineering course (CSC 3114).
-
-- **4 roles**: Customer, Pharmacist, Delivery Person, Administrator
-- **AI module**: Rule-based Expert Systems + Bayesian inference
-- Full proposal, SRS, and system design completed
 
 ---
 
@@ -24,8 +15,7 @@ An AI-powered online pharmacy system built for my Software Engineering course (C
 |---|---|---|
 | Hospital Management System | .NET / C# | Full patient, ward & billing desktop app |
 | Hotel Management System | Java | Booking, room tracking, billing |
-| Crypto Management System | Java | Portfolio tracker for crypto assets |
-| AIUB Logo Renderer | C++ / OpenGL/GLUT | University logo via computer graphics |
+| Tea Garden | C++ / OpenGL/GLUT | Via computer graphics |
 
 ---
 
@@ -41,16 +31,6 @@ An AI-powered online pharmacy system built for my Software Engineering course (C
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
-
----
-
-### 📚 Currently Studying
-
-- Software Engineering (CSC 3114) — Requirements, Design, Testing
-- Compiler Design — Lexing, Parsing, SDT, Code Generation
-- Computer Graphics — DDA, OpenGL, Transformations
-- AI Systems — Expert Systems, Bayesian Inference
-- Web Technology · Chemistry
 
 ---
 
