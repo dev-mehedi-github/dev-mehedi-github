@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h1 align="center">Hello, I'm Mehedi Hasan</h1>
 <h3 align="center">CS @ AIUB · Building full-stack systems & AI-powered apps · Dhaka, Bangladesh</h3>
 
 ---
