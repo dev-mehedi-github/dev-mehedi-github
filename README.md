@@ -9,7 +9,7 @@
 |---|---|---|
 | Hospital Management | .NET / C# | Full patient & ward desktop system |
 | Hotel Management | Java | Booking, room tracking, billing |
-| ATea Garden| C++ / OpenGL | Computer graphics |
+|Tea Garden| C++ / OpenGL | Computer graphics |
 
 ---
 
