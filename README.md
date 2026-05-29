@@ -9,7 +9,6 @@
 |---|---|---|
 | Hospital Management | .NET / C# | Full patient & ward desktop system |
 | Hotel Management | Java | Booking, room tracking, billing |
-| Crypto Manager | Java | Portfolio tracker for crypto assets |
 | ATea Garden| C++ / OpenGL | Computer graphics |
 
 ---
