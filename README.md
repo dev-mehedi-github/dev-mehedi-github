@@ -29,16 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notepadplusplus/notepadplusplus-original.svg" alt="Notepad++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_colaboratory/google_colaboratory-icon.svg" alt="Google Colab" width="40" height="40"/>
-
-  <img src="https://www.svgrepo.com/show/373850/multisim.svg" alt="Multisim" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/354224/proteus.svg" alt="Proteus" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/443188/ltspice.svg" alt="LTspice" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>  
 </p>
 
 ---
