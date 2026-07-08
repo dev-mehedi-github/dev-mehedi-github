@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mehedi Hasan</h1>
-<h3 align="center">CS @ AIUB · Building full-stack systems & AI-powered apps · Dhaka, Bangladesh</h3>
+<h3 align="center">CS @ AIUB · Learning Phase · Dhaka, Bangladesh</h3>
 
 ---
 
@@ -7,8 +7,8 @@
 
 | Project | Stack | Description |
 |---|---|---|
-| Hospital Management | .NET / C# | Full patient & ward desktop system |
-| Hotel Management | Java | Booking, room tracking, billing |
+| Hospital Management | .NET / C# / MS SQL | Full patient & ward desktop system |
+| Hotel Management | Java / Oracole10g | Booking, room tracking, billing |
 |Tea Garden| C++ / OpenGL | Computer graphics |
 
 ---
