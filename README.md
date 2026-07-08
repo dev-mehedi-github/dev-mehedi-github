@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mehedi Hasan</h1>
-<h3 align="center">CS @ AIUB · Learning Phase · Dhaka, Bangladesh</h3>
+<h3 align="center">CSE @ AIUB · Learning Phase · Dhaka, Bangladesh</h3>
 
 ---
 
