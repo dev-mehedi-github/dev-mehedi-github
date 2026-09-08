@@ -5,12 +5,13 @@
 
 ### 🛠️ Past Projects
 
-| Project | Language | Description |
-|---|---|---|
-| Hospital Management | .NET / C# / MS SQL | Full patient & ward desktop system |
-| Hotel Management | Java / Oracole10g | Booking, room tracking, billing |
-|Tea Garden| C++ / OpenGL | Computer graphics |
-|Doctor Appointment System|HTML/CSS/JS/PHP/MySQL|Register,login,Make appointment,Admin dashbord|
+| Project | Language | Description |Course|
+|---|---|---|---|
+| Hospital Management | .NET / C# / MS SQL | Full patient & ward desktop system |Object-oriented programming(OOP) 1|
+| Hotel Management | Java / Oracole10g | Booking, room tracking, billing |Object-oriented programming(OOP) 2|
+|Tea Garden| C++ / OpenGL | Beauty of Sylhet transition |Computer Graphics|
+|Doctor Appointment System|HTML/CSS/JS/PHP/MySQL|Register,login,Make appointment,Admin dashbord|Web Technology|
+|Multi-Disease Detection from Chest X-Rays Using CNN and Explainable AI (XAI)|Python/Keras/Tensorflow|Machine Learning|
 
 ---
 
@@ -26,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   <br>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/overleaf/overleaf-original.svg" alt="Overleaf" width="40" height="40"/>
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
