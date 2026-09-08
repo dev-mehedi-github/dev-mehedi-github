@@ -11,7 +11,7 @@
 | Hotel Management | Java / Oracole10g | Booking, room tracking, billing |Object-oriented programming(OOP) 2|
 |Tea Garden| C++ / OpenGL | Beauty of Sylhet transition |Computer Graphics|
 |Doctor Appointment System|HTML/CSS/JS/PHP/MySQL|Register,login,Make appointment,Admin dashbord|Web Technology|
-|Multi-Disease Detection from Chest X-Rays Using CNN and Explainable AI (XAI)|Python/Keras/Tensorflow|Machine Learning|
+|Multi-Disease Detection from Chest X-Rays Using CNN and Explainable AI (XAI)|Python/Keras/Tensorflow|An AI model that detects 5 lung conditions from X-rays using CNN and XAi|Machine Learning|
 
 ---
 
