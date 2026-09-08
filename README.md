@@ -10,6 +10,7 @@
 | Hospital Management | .NET / C# / MS SQL | Full patient & ward desktop system |
 | Hotel Management | Java / Oracole10g | Booking, room tracking, billing |
 |Tea Garden| C++ / OpenGL | Computer graphics |
+|Doctor Appointment System|HTML/CSS/JS/PHP/MySQL|Register,login,Make appointment,Admin dashbord|
 
 ---
 
