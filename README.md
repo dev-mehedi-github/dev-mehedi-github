@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Mehedi Hasan</h1>
-<h3 align="center">CSE @ AIUB · Learning Phase · Dhaka, Bangladesh</h3>
+<h3 align="center">CSE @ AIUB · Learner · Dhaka, Bangladesh</h3>
 
 ---
 
-### 🛠️ Past Projects
+### 🛠️ Past Projects(University)
 
 | Project | Language | Description |Course|
 |---|---|---|---|
@@ -47,7 +47,11 @@
 </p>
 
 ---
+### Accounts
+
+**HackerRank:** @aiubmehedi20
 
 ### 📫 Contact
 
 **Email:** aiubmehedi20@gmail.com
+
